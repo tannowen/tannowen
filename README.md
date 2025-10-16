@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **loopys206@gmail.com**
 
-- ⚡ Fun fact **Made my first website at 10 years old in 2013 with 0 help!**
+- ⚡ Fun fact **Made my first website at 10 years old in 2013!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
