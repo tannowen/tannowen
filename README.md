@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A passionate dev from Seattle, Washington</h3>
+<h3 align="center">From Seattle, Washington</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannowen&label=Profile%20views&color=0e75b6&style=flat" alt="tannowen" /> </p>
 
-- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 github [https://github.com/tannowen](https://github.com/tannowen)
 
 - 📝 linkedin [https://www.linkedin.com/in/owen-tanner-9746872ba](https://www.linkedin.com/in/owen-tanner-9746872ba)
 
-- 💬 Ask me about **python, html, css, product sourcing**
-
-- 📫 How to reach me **loopys206@gmail.com**
-
-- ⚡ Fun fact **Made my first website at 10 years old in 2013!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
