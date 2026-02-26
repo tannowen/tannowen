@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannowen&label=Profile%20views&color=0e75b6&style=flat" alt="tannowen" /> </p>
 
 
-- 👨‍💻 github [https://github.com/tannowen](https://github.com/tannowen)
-
-- 📝 linkedin [https://www.linkedin.com/in/owen-tanner-9746872ba](https://www.linkedin.com/in/owen-tanner-9746872ba)
 
 
 <h3 align="left">Connect with me:</h3>
